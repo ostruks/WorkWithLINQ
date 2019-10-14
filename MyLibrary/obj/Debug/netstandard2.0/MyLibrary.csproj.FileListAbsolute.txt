@@ -1,0 +1,9 @@
+C:\Ostruks\WorkWithLINQ\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.deps.json
+C:\Ostruks\WorkWithLINQ\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.dll
+C:\Ostruks\WorkWithLINQ\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.pdb
+C:\Ostruks\WorkWithLINQ\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.csprojAssemblyReference.cache
+C:\Ostruks\WorkWithLINQ\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Ostruks\WorkWithLINQ\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Ostruks\WorkWithLINQ\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.AssemblyInfo.cs
+C:\Ostruks\WorkWithLINQ\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.dll
+C:\Ostruks\WorkWithLINQ\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.pdb
